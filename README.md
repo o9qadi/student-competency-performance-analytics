@@ -49,7 +49,7 @@ ROUND(
 ## 🖼️ Dashboard Preview & Architecture
 Below is a comprehensive visual snapshot of the interactive application interface:
 
-![Dashboard Preview](student-competency-performance-analytics.jpeg)
+![Dashboard Preview](student-competency-performance-analytics.png)
 
 
 ---
